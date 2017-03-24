@@ -21,7 +21,25 @@ body {
 
 label{
     font-weight: 400 !important;
-}/*!
+}
+.panel-title {
+	color: #4a91ce !important;
+}
+
+.profile-image  {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/*
+ * Navbar
+ */
+.navbar-top {
+    margin-bottom: 0px;
+    background-color: #428bca;
+    border-color: #3174b0;
+}
+/*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
